@@ -1,0 +1,51 @@
+body {
+	background-color: #ccc;
+	background-image: url(tlo.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center center;
+	min-height: 100vh;
+}
+
+#main {
+	width: 460px;
+	height: 900px;
+	margin: auto;
+	padding: 20px;
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #bdc4ca;
+}
+
+#logo {
+	text-transform: uppercase;
+	font-size: 8px;
+}
+
+#logo img {
+	width: 100px;
+}
+
+table {
+	margin-top: 50px;
+	margin-bottom: 50px;
+	background-color: #fff;
+}
+
+table img {
+	margin: 5px;
+	padding: 2px;
+}
+
+#about p {
+	text-align: justify;
+}
+
+#about h3 {
+	border-bottom: #504f4f solid 1px;
+	font-size: 30px;
+}
+
+footer {
+	color: #5f5e5e;
+}
